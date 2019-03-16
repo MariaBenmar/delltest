@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/badoo/badoo.iml" filepath="$PROJECT_DIR$/badoo/badoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cyclePress/cyclePress.iml" filepath="$PROJECT_DIR$/cyclePress/cyclePress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/delltest.iml" filepath="$PROJECT_DIR$/.idea/modules/delltest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/delltest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/delltest_main.iml" group="delltest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/delltest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/delltest_test.iml" group="delltest" />
+      <module fileurl="file://$PROJECT_DIR$/devidersPress/devidersPress.iml" filepath="$PROJECT_DIR$/devidersPress/devidersPress.iml" />
+    </modules>
+  </component>
+</project>
